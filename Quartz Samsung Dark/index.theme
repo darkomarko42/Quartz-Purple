@@ -1,0 +1,12 @@
+[Desktop ]
+Type=X-GNOME-Metatheme
+Name=Quartz Samsung Dark
+Comment=GTK Theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Quartz Samsung Dark
+MetacityTheme=Quartz Samsung Dark
+IconTheme=Luna-Dark
+CursorTheme=Luna
+CursorSize=24
