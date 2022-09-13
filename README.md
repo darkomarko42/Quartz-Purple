@@ -1,2 +1,2 @@
-# Quartz Samsung
-Flat GTK Theme For Budgie Desktop
+# Quartz Purple
+Flat GTK Theme For Cinnamon Desktop
