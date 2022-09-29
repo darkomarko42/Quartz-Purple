@@ -2469,6 +2469,9 @@ label selection
 /* Menu and Popover */
 menubar > menuitem:hover,
 .menubar > menuitem:hover,
+menubar > item:selected
+{color: inherit; background-image: image(alpha(@gtk_fg_color,0.15));}
+
 menu menuitem:hover,
 .menu menuitem:hover,
 menuitem.button.flat:hover,
@@ -2484,7 +2487,6 @@ modelbutton.flat:hover,
 .budgie-popover .sidebar .frame row.activatable:hover,
 .budgie-popover .sidebar .frame row.activatable:selected,
 .budgie-popover list .menuitem:hover,
-menubar > item:selected,
 dropdown popover listview > row:selected,
 combobox popover listview > row:selected
 {color: @gtk_fg_color; background-image: image(alpha(@gtk_fg_color,0.15));}
