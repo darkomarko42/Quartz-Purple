@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Quartz Purple
+Name=Quartz
 Comment=GTK Theme
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Quartz Purple
-MetacityTheme=Quartz Purple
+GtkTheme=Quartz
+MetacityTheme=Quartz
 IconTheme=Marwaita-Light
 CursorTheme=Marwaita
 CursorSize=24
